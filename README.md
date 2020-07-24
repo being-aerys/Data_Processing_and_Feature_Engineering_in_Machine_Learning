@@ -27,16 +27,20 @@ It also requires a software that can open and execute a Jupyter Notebook.
 7. Click on the file for the dimensionality reduction technque that you are interested in.
 
 ## Data
-Several data sets are used in this project. Following is a list that will be updated with time.
-1. http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
-
+Several data sets are used in this project. Following is a list that will be updated with time.<br>
+1.[Blog Feedback Dataset](https://https://archive.ics.uci.edu/ml/datasets/BlogFeedback#)<br>
+2.
 ## Dimensionality Reduction Methods Covered
 1. Zero-Variance Feature Removal
+2. Multicollinearity Removal
 
 ## Work in Progress
-1. Multicollinearity
+1. Before feature engineering vs After feature engineering Evaluation
 
 ## Dimensionality Reduction Methods to be Covered
 1. PCA
-2. LDA, etc.
+2. LDA
+3. Cluster Analysis/ Feature Agglomeration
+4. Forward Elimination/ Bakward Elimination/ Stepwise Elimination
+5. 
 
