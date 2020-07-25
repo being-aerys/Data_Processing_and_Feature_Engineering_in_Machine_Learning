@@ -1,5 +1,5 @@
-# Dimensionality Reduction in Machine Learning
-This is a project to showcase different dimensionality reduction techniques helpful in machine learning.
+# Data Cleaning, Feature Engineering, and Dimensionality Reduction in Machine Learning
+This is a project to showcase different data cleaning, feature engineering, and dimensionality reduction techniques helpful in machine learning.
 Each jupyter notebook itself is a standalone illustration of the technique covered in that notebook.
 
 ## Dependencies
